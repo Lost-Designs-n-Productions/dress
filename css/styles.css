@@ -1,6 +1,7 @@
 /* CSS Document */
 p {
 	font-size: 1rem;
+	color: #8A199A;
 }
 #title {
 	background-color: #FFD49F;
@@ -13,15 +14,19 @@ h1 {
 	font-family: "Raleway-black";
 	font-size: 3.5rem;
 	line-height: 1.5;
+	color: #8A199A;
 }
 h2 {
 	font-family: "Raleway-black";
 	font-size: 3rem;
 	line-height: 1.5;
+	color: #8A199A;
+	
 }
 h3 {
 	font-family: "Raleway-black";
 	line-height: 1.5;
+	color: #8A199A;
 }
 .container-fluid {
 	padding: 3% 15%;
